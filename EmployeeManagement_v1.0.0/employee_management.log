@@ -1,7 +1,0 @@
-2025-06-02 18:41:18 - EmployeeManagement - INFO - ==================================================
-2025-06-02 18:41:18 - EmployeeManagement - INFO - Employee Management System started at 2025-06-02 18:41:18.853294
-2025-06-02 18:41:18 - EmployeeManagement - INFO - ==================================================
-2025-06-02 18:41:18 - EmployeeManagement - INFO - Starting Employee Management System
-2025-06-02 18:41:21 - EmployeeManagement - ERROR - Error checking notifications: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 10720 and this is thread id 10416.
-2025-06-02 18:41:21 - EmployeeManagement - INFO - Notification checker started
-2025-06-02 18:43:14 - EmployeeManagement - INFO - Closing Employee Management System
