@@ -1,0 +1,24 @@
+# Employee Management System Requirements
+
+# Core GUI
+tkinter  # Usually comes with Python
+
+# Date picker widget
+tkcalendar==1.6.1
+
+# Database
+# SQLite3 comes with Python
+
+# For building executable
+pyinstaller==6.3.0
+
+# Optional - for better styling
+# sv-ttk==2.5.5  # Sun Valley theme for tkinter
+
+# Optional - for PDF generation (if needed later)
+# reportlab==4.0.8
+# pypdf==3.17.4
+
+# Optional - for Excel export (if needed later)
+# openpyxl==3.1.2
+# xlsxwriter==3.1.9
