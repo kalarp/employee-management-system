@@ -1,4 +1,4 @@
-# Employee Management System User Guide
+# About the App
 
 The Employee Management System is a simple, desktop-based employee management application built with Python, Tkinter, and SQLite.
 
