@@ -43,6 +43,5 @@ The Employee Management System provides basic functions for managing human resou
 
 * Expiring contracts alerts 
 * Medical examination due dates
-* Safety training renewals (future version)
-* Customizable notification periods (future version)
-a
+* Safety training renewals (to be released)
+* Customizable notification periods (to be released)
