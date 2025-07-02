@@ -6,7 +6,7 @@ This guide explains how to use the Employee Management System to manage employee
 
 The tabs represent the core functions of the application. The following sections will guide you through each feature available in the interface.
 
-## Employess
+## Employees
 
 ## Time Tracking
 
